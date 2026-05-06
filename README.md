@@ -6,7 +6,7 @@ Trigonometry is hard so I had AI help me with that
 Added data saving  
 Polished the ENTIRE game  
 Added effects upon landing or crashing  
-Added an upgrading system, you can upgrade fuel now. Fuel upgrade cost: 50 + 25x where x is every level  
+Added a level system. Income and fuel efficiency increases per level. More will be added.
 Added a cool counter effect thing when you get Aura
 
 # V1.01 (May 4, 2026) -
